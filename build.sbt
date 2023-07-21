@@ -4,8 +4,8 @@ version := "0.1"
 
 scalaVersion := "2.12.11"
 
-val Spark = "3.1.2"
-val Hudi = "0.9.0"
+val Spark = "3.3.0"
+val Hudi = "0.12.1"
 val Logging = "3.9.4"
 
 libraryDependencies ++= Seq(

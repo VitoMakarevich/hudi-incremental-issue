@@ -27,7 +27,7 @@ from all commits except the first(which becomes kind of a base file).
 ## Hudi versions
 I checked that this behavior happens for `0.9.0` and `0.10.0`, but works correctly starting from `0.11.0`.
 
-## Local run 
+## Local run
 Just call `sbt run` and filter logs by `com.example.hudi.HudiIncrementalChecker`.
 
 ## Fixes
